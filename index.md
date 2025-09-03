@@ -12,8 +12,6 @@ markdown
 Syntax highlighted code block
 
 # Rishi Ragav's First CS193 Homework
-## Header 2
-### Header 3
 
 - I am really excited to learn about navigating the terminal!!!
 - I am also excited to learn about using git repositories and GitHub in general.
