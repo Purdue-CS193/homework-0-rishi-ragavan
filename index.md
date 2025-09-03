@@ -16,7 +16,7 @@ Syntax highlighted code block
 - I am really excited to learn about navigating the **terminal**!!!
 - I am also excited to learn about using git repositories and _GitHub_ in general.
 
-[Link](url) and ![Image](https://upload.wikimedia.org/wikipedia/commons/8/8f/Purdue_Pete_modern.jpg)
+[Link](url) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
