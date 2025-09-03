@@ -13,13 +13,8 @@ Syntax highlighted code block
 
 # Rishi Ragav's First CS193 Homework
 
-- I am really excited to learn about navigating the terminal!!!
-- I am also excited to learn about using git repositories and GitHub in general.
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- I am really excited to learn about navigating the **terminal**!!!
+- I am also excited to learn about using git repositories and _GitHub_ in general.
 
 [Link](url) and ![Image](src)
 
